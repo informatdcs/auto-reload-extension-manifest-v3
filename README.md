@@ -1,6 +1,6 @@
 # It's simple
 
-This code autoreloads an extension from your browser when changes are made to some files of the extension and its ***compatible with manifest V3***.
+This code autoreloads/hot-reloads an extension from your browser when changes are made to some files of the extension and its ***compatible with manifest V3***.
 
 Useful for browser extensions in developtment, include this file in your service_worker or make it your service_worker and let it refresh itself!
 
